@@ -1,5 +1,6 @@
-##  Eu sou estudante de Ciência da Computação atualmente no 3º semestre.
-Tenho um propósito de iniciar minha carreira na área de tecnologia, aprendendo e construindo soluções que façam diferença.
+## Eu sou estudante de Ciência da Computação atualmente no 3º semestre.
+---
+* Tenho um propósito de iniciar minha carreira na área de tecnologia, aprendendo e construindo soluções que façam diferença.
 ---
 
 ## 🚀 Tecnologias que venho usando
