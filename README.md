@@ -16,5 +16,5 @@ Sou estudante de Ciência da Computação (3º semestre) com propósito de inici
 ## 📌 Sobre mim
 
 - Foco em aprendizado contínuo e projetos práticos  
-- Interessa-me automação, análise de dados e desenvolvimento web  
+- Tenho interesse em automação, análise de dados e desenvolvimento web  
 - Sempre buscando aplicar conhecimento em problemas reais 
